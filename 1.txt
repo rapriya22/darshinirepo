@@ -1,2 +1,3 @@
 this is my 1st file
 hello this is the latest update
+hi this message is to test the slave env.
